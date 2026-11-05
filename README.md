@@ -4,7 +4,7 @@ Projeto de estudo em Excel: análise da saúde de uma carteira de clientes de um
 
 > **Sobre os dados:** a base é fictícia e foi gerada com apoio de inteligência artificial. A análise e o dashboard foram construídos por mim no Excel.
 
-![Dashboard](dashboard.png)
+<img src="https://raw.githubusercontent.com/alehsm/dashboard-saude-clientes-excel/main/Dashboard_Nexo_ERP.png" alt="Dashboard" width="100%">
 
 ## Objetivo
 Identificar quais clientes estão saudáveis, quais precisam de atenção e quais correm risco de cancelar, e priorizar ações antes das renovações.
